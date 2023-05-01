@@ -1,0 +1,23 @@
+.topnav {
+   overflow: hidden;
+    background-color: white;
+  }
+  
+  .topnav a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 20px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 17px;
+  }
+  
+  
+  /* Create a right-aligned (split) link inside the navigation bar */
+  .topnav a.split {
+    float: right;
+    font-weight: bold;
+    font-size: 20px;
+    color: darkblue;
+  }
